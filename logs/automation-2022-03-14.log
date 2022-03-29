@@ -1,0 +1,6 @@
+14:52:36.839 [main] INFO  testCases.TC_001_AccountRegistration - Starting the first test case
+14:52:38.048 [main] INFO  testCases.TC_001_AccountRegistration - Home Page is displayed
+14:52:40.607 [main] INFO  testCases.TC_001_AccountRegistration - Success
+14:52:40.609 [main] INFO  testCases.TC_001_AccountRegistration - Finished the first test case
+14:52:41.884 [main] INFO  testCases.TC_002_LoginPage - Starting TC_002_Login test case
+14:52:43.179 [main] INFO  testCases.TC_002_LoginPage - Home Page is displayed

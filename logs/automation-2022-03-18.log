@@ -1,0 +1,6 @@
+12:14:25.566 [main] INFO  testCases.TC_003_LoginPage_DDT01 -  Starting TC_003_LoginDDT01 
+12:14:26.025 [main] INFO  testCases.TC_003_LoginPage_DDT01 - Home Page Displayed 
+12:14:26.096 [main] INFO  testCases.TC_003_LoginPage_DDT01 - Clicked on My Account 
+12:14:26.478 [main] INFO  testCases.TC_003_LoginPage_DDT01 - Clicked on Login 
+12:14:28.261 [main] INFO  testCases.TC_003_LoginPage_DDT01 -  Starting TC_003_LoginDDT01 
+12:14:28.766 [main] INFO  testCases.TC_003_LoginPage_DDT01 - Home Page Displayed 
